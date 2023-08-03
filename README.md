@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-She'll basics 2
+shell basics 2 task
